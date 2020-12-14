@@ -1,0 +1,65 @@
+{
+    "tshirts": [
+        {
+            "filepath" : "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
+            "position" : [287, 547],
+            "width"    : 135,
+            "mockname" : "jerzees_29mr_black_leftChest.png"
+        },
+        {
+            "filepath" : "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
+            "position" : [264, 324],
+            "width"    : 345,
+            "mockname" : "jerzees_29mr_black_fullChest.png"
+        },
+        {
+            "filepath" : "../productimages/tradepackage/tshirt/back/jerzees_29mr_black_back.png",
+            "position" : [204,304],
+            "width"    : 385,
+            "mockname" : "jerzees_29mr_black_fullBack.png"
+        } 
+    ],
+
+    "hoodies": [
+        {
+            "filepath" : "../productimages/tradepackage/hoodie/front/gildan_18500_black_front.png",
+            "position" : [370, 584],
+            "width"    : 138,
+            "mockname" : "gildan_18500_black_leftChest.png"
+        },
+        {
+            "filepath" : "../productimages/tradepackage/hoodie/back/gildan_18500_black_back.png",
+            "position" : [378,306],
+            "width"    : 416,
+            "mockname" : "gildan_18500_black_fullBack.png"
+        }
+    ],
+
+    "beanies": [
+        {
+            "filepath" : "../productimages/tradepackage/beanie/ypclassics_1501kc_black_front.png",
+            "position" : [775, 281],
+            "width"    : 376,
+            "mockname" : "ypclassics_1501kc_black_embFront.png"
+        }
+    ],
+
+    "jackets": [
+        {
+            "filepath" : "../productimages/tradepackage/jacket/portauthority_j405_black_front.png",
+            "position" : [1015, 1106],
+            "width"    : 260,
+            "mockname" : "portauthority_j405_black_embLeftChest.png"
+        }
+    ],
+
+    "caps": [
+        {
+            "filepath" : "../productimages/tradepackage/cap/richardson_112_black_front.png",
+            "position" : [505, 252],
+            "width"    : 470,
+            "mockname" : "richardson_112_black_embFront.png"
+        }
+    ] 
+}        
+

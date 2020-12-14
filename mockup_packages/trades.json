@@ -1,0 +1,21 @@
+{
+    "tshirts": [
+        {
+            "filePath": "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
+            "position": [287, 547],
+            "width"   : 135
+        },
+        {
+            "filePath": "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
+            "position": [264, 324],
+            "width"   : 345
+        },
+        {
+            "filepath": "../productimages/tradepackage/tshirt/back/jerzees_29mr_black_back.png",
+            "position": [204,304],
+            "width"   : 385
+        } 
+    ]
+
+}        
+
