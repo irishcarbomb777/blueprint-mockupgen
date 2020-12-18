@@ -4,18 +4,21 @@
             "filepath" : "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
             "position" : [287, 547],
             "width"    : 135,
+            "align"    : "top-left",
             "mockname" : "jerzees_29mr_black_leftChest.png"
         },
         {
             "filepath" : "../productimages/tradepackage/tshirt/front/jerzees_29mr_black_front.png",
-            "position" : [264, 324],
-            "width"    : 345,
+            "position" : [268, 498],
+            "width"    : 358,
+            "align"    : "top-center",
             "mockname" : "jerzees_29mr_black_fullChest.png"
         },
         {
             "filepath" : "../productimages/tradepackage/tshirt/back/jerzees_29mr_black_back.png",
-            "position" : [204,304],
-            "width"    : 385,
+            "position" : [214,500],
+            "width"    : 406,
+            "align"    : "top-center",
             "mockname" : "jerzees_29mr_black_fullBack.png"
         } 
     ],
@@ -25,12 +28,14 @@
             "filepath" : "../productimages/tradepackage/hoodie/front/gildan_18500_black_front.png",
             "position" : [370, 584],
             "width"    : 138,
+            "align"    : "top-left",
             "mockname" : "gildan_18500_black_leftChest.png"
         },
         {
             "filepath" : "../productimages/tradepackage/hoodie/back/gildan_18500_black_back.png",
-            "position" : [378,306],
+            "position" : [384, 515],
             "width"    : 416,
+            "align"    : "top-center",
             "mockname" : "gildan_18500_black_fullBack.png"
         }
     ],
@@ -38,8 +43,9 @@
     "beanies": [
         {
             "filepath" : "../productimages/tradepackage/beanie/ypclassics_1501kc_black_front.png",
-            "position" : [775, 281],
-            "width"    : 376,
+            "position" : [1046, 770, 500],
+            "width"    : 500,
+            "align"    : "center-center",
             "mockname" : "ypclassics_1501kc_black_embFront.png"
         }
     ],
@@ -49,6 +55,7 @@
             "filepath" : "../productimages/tradepackage/jacket/portauthority_j405_black_front.png",
             "position" : [1015, 1106],
             "width"    : 260,
+            "align"    : "top-left",
             "mockname" : "portauthority_j405_black_embLeftChest.png"
         }
     ],
@@ -56,9 +63,20 @@
     "caps": [
         {
             "filepath" : "../productimages/tradepackage/cap/richardson_112_black_front.png",
-            "position" : [505, 252],
+            "position" : [780, 550, 484],
             "width"    : 470,
+            "align"    : "center-center",
             "mockname" : "richardson_112_black_embFront.png"
+        }
+    ],
+
+    "gaiters": [
+        {
+            "filepath" : "../productimages/tradepackage/gaiter/valucap_vc20_black_side.png",
+            "position" : [250,306],
+            "width"    : 364,
+            "align"    : "gaiter",
+            "mockname" : "valucap_vc20_black_side.png"
         }
     ] 
 }        

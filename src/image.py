@@ -185,6 +185,7 @@ class Image():
         self.image = cv2.resize(self.image, dsize)
 
         # Set new class values
+        self.shape = self.image.shape
         return self 
     
     def bin_threshold(self, low_thresh, high_thresh):
